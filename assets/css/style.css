@@ -72,6 +72,7 @@ p {
     float: right;
     margin-left: 25px;
 }
+/*------------------------------------------------------*/
 /* changed class to id, only is been used in one section*/
 #content {
     width: 75%;
@@ -79,8 +80,11 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/*------------------------------------------------------*/
 /* changed class to id, only is been used in one section*/
-#search-engine-optimization {
+/* group all search engine id together*/
+.sections-in-main {
     margin-bottom: 20px;
     padding: 50px;
     height: 305px;
@@ -88,49 +92,15 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-#search-engine-optimization img {
+.sections-in-main img {
     max-height: 200px;
 }
-#search-engine-optimization h2 {
+.sections-in-main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/*------------------------------------------------------*/
-/* changed class to id, only is been used in one section*/
-#online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 305px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-#online-reputation-management img {
-    max-height: 200px;
-}
-#online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
-/*------------------------------------------------------*/
-/* changed class to id, only is been used in one section*/
-#social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 305px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-#social-media-marketing img {
-    max-height: 200px;
-}
-#social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 /*------------------------------------------------------*/
 /* changed class to id, only is been used in one section*/
@@ -147,51 +117,20 @@ p {
 
 /*------------------------------------------------------*/
 /* changed class to id, only is been used in one section*/
-#benefit-lead {
+.benefits-info{
     margin-bottom: 32px;
     color: #ffffff;
 }
-#benefit-lead h3 {
+.benefits-info h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-#benefit-lead img {
+.benefits-info img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/*------------------------------------------------------*/
-/* changed class to id, only is been used in one section*/
-#benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-#benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-#benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/*------------------------------------------------------*/
-/* changed class to id, only is been used in one section*/
-#benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-#benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-#benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
 /*------------------------------------------------------*/
 /*remove class from footer since footer is an element*/
