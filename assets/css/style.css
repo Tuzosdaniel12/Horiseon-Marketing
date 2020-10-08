@@ -8,7 +8,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*-----------------------HEADER SECTION--------------------------------*/
 /* remove class"." from header since is an element the class is no need*/
 header {
     padding: 20px;
@@ -53,7 +53,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*-----------------------BANNER-LARGE IMAGE SECTION--------------------------------*/
 .hero {
     height: 800px;
     width: 100%;
@@ -63,6 +63,7 @@ p {
     background-position: center;
 }
 
+/*-----------------------CLASSES TO HELP SECTIONS FLOAT--------------------------------*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -72,6 +73,8 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+/*-----------------------MAIN SECTION--------------------------------*/
 /*------------------------------------------------------*/
 /* changed class to id, only is been used in one section*/
 #content {
@@ -81,7 +84,8 @@ p {
     margin-left: 20px;
 }
 
-/*------------------------------------------------------*/
+/*-----------------------FORMATTING EACH SECTION IN MAIN------------------*/
+/*----------------------------------------------------------------*/
 /* changed class to id, only is been used in one section*/
 /* group all search engine id together*/
 .sections-in-main {
@@ -101,7 +105,7 @@ p {
 }
 
 
-
+/*-----------------------FORMATTING EACH SECTION IN ASIDE------------------*/
 /*------------------------------------------------------*/
 /* changed class to id, only is been used in one section*/
 #benefits {
@@ -131,7 +135,7 @@ p {
     max-width: 150px;
 }
 
-
+/*-----------------------HEADER------------------*/
 /*------------------------------------------------------*/
 /*remove class from footer since footer is an element*/
 footer {

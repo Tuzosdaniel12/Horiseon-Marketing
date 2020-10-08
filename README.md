@@ -1,13 +1,23 @@
-# Horiseon-Marketing
+# Horiseon-Marketing Accessibility Code Refactor
 
-For this project I took Horiseon website and input **accessibility** standard.
-I first add a descriptive title to the website, that people will know what type of website they are visiting.
+## My Task
+For this project I took Horiseon Marketing company website  and input **accessibility** standards and refactor the code.
 
-For the Html document I changed various div tag to more current elements that more descriptive and are easier to fallow as the page goes down; such as Header. Navigation, main section, aside section, footer. in the code you will notice that also add comments to all the action I took as I was changing some of tag elements. I added alt attributes to all images to help does who can't see so they have a the image in there head. change various class to id since most attributes were only been use once. left classes that where used in multiple locations.
+## My Process
+When I got the project I took time to read all the website, after I read the code: 
 
-For the css document, I follow ths html document and arrange it as the html goes does so does the css. many of the existing div classes were remove, I change div to systematic elements. Similar to html file I added comments to every action I did to have a easy to read css file. 
+* Html
+    * I first add a descriptive title to the website, so  people will know what type of website they are visiting.
 
+    * For the  body Html document I changed various div tag to more current elements that more descriptive and are easier to fallow as the page goes down; such as Header. Navigation, main section, aside section, footer. in the code you will notice that also add comments to all the action I took as I was changing some of tag elements. I added alt attributes to all images to help does who can't see, so they have an picture of the image in there head. grouped various classes to one class, since most classes were using same code.
 
+* CSS
+    * For the css document, I follow ths html document and arrange it as the html goes does so does the css. 
+    * many of the existing div classes were remove, I change div to systematic elements. 
+    * Similar to html file I added comments to every action I did to have a easy to read css file.
+
+## Links to Repo 
 https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/README.md
-link for the website is bellow
+
+## Project Website
 https://tuzosdaniel12.github.io/Horiseon-Marketing/
