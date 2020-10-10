@@ -16,8 +16,32 @@ When I got the project I took time to read all the website, after I read the cod
     * many of the existing div classes were remove, I change div to systematic elements. 
     * Similar to html file I added comments to every action I did to have a easy to read css file.
 
+## Original Code
+
+* HTML
+
+
+![Original HTML](assets/images/original/original-html-01.png)
+![Original HTML](assets/images/original/original-html-02.png)
+![Original HTML](assets/images/original/original-html-03.png)
+
+* CSS
+![Original CSS](assets/images/original/original-css-01.png)
+![Original CSS](assets/images/original/original-css-02.png)
+![Original CSS](assets/images/original/original-css-03.png)
+![Original CSS](assets/images/original/original-css-04.png)
+![Original CSS](assets/images/original/original-css-05.png)
+![Original CSS](assets/images/original/original-css-06.png)
+
+## Refactor Code
+
+* HTML
+
+* CSS
+
 ## Links to Repo 
 https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/README.md
 
 ## Project Website
 https://tuzosdaniel12.github.io/Horiseon-Marketing/
+

@@ -84,10 +84,9 @@ p {
     margin-left: 20px;
 }
 
-/*-----------------------FORMATTING EACH SECTION IN MAIN------------------*/
+/*-----------------------FORMATTING EACH SECTION IN MAIN-----------*/
 /*----------------------------------------------------------------*/
-/* changed class to id, only is been used in one section*/
-/* group all search engine id together*/
+/* regroup all the three sections main to use same class since the css were doing the same job*/
 .sections-in-main {
     margin-bottom: 20px;
     padding: 50px;
@@ -105,7 +104,7 @@ p {
 }
 
 
-/*-----------------------FORMATTING EACH SECTION IN ASIDE------------------*/
+/*---------------FORMATTING EACH SECTION IN ASIDE------------------*/
 /*------------------------------------------------------*/
 /* changed class to id, only is been used in one section*/
 #benefits {
@@ -120,7 +119,7 @@ p {
 }
 
 /*------------------------------------------------------*/
-/* changed class to id, only is been used in one section*/
+/* regroup all the three sections aside to use same class since the css were doing the same job*/
 .benefits-info{
     margin-bottom: 32px;
     color: #ffffff;
@@ -135,7 +134,7 @@ p {
     max-width: 150px;
 }
 
-/*-----------------------HEADER------------------*/
+/*-----------------------FOOTER------------------*/
 /*------------------------------------------------------*/
 /*remove class from footer since footer is an element*/
 footer {
