@@ -28,11 +28,11 @@ When I got the project I took time to read all the website, after I read the cod
 * CSS
 
 ![Original CSS](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/original-css-01.jpg?raw=true)
-![Original CSS](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/original-css-02.jpg?raw=true)
+![Original CSS](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/Original-css-02.jpg?raw=true)
 ![Original CSS](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/original-css-03.jpg?raw=true)
-![Original CSS](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/original-css-04.jpg?raw=true)
-![Original CSS](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/original-css-05.jpg?raw=true)
-![Original CSS](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/original-css-06.jpg?raw=true)
+![Original CSS](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/Original-css-04.jpg?raw=true)
+![Original CSS](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/Original-css-05.jpg?raw=true)
+![Original CSS](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/Original-css-06.jpg?raw=true)
 
 ## Refactor Code
 
