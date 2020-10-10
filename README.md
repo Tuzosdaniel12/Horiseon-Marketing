@@ -20,13 +20,13 @@ When I got the project I took time to read all the website, after I read the cod
 
 * HTML
 
-
 ![Original HTML](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/Original-html-01.jpg?raw=true)
 ![Original HTML](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/Original-html-02.jpg?raw=true)
 ![Original HTML](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/Original-html-03.jpg?raw=true)
 
 
 * CSS
+
 ![Original CSS](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/original-css-01.jpg?raw=true)
 ![Original CSS](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/original-css-02.jpg?raw=true)
 ![Original CSS](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/original-css-03.jpg?raw=true)
