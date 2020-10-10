@@ -37,18 +37,18 @@ When I got the project I took time to read all the website, after I read the cod
 ## Refactor Code
 
 * HTML
-![Refactor HTML](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/Refactor-Html-01.jpg?raw=true)
-![Refactor HTML](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/Refactor-Html-02.jpg?raw=true)
-![Refactor HTML](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/Refactor-Html-03.jpg?raw=true)
-![Refactor HTML](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/Refactor-Html-04.jpg?raw=true)
+![Refactor HTML](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/Refactor/Refactor-Html-01.jpg?raw=true)
+![Refactor HTML](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/Refactor/Refactor-Html-02.jpg?raw=true)
+![Refactor HTML](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/Refactor/Refactor-Html-03.jpg?raw=true)
+![Refactor HTML](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/Refactor/Refactor-Html-04.jpg?raw=true)
 
 * CSS
-![Refactor CSS](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/Refactor-css-01.jpg?raw=true)
-![Refactor CSS](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/Refactor-css-02.jpg?raw=true)
-![Refactor CSS](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/Refactor-css-03.jpg?raw=true)
-![Refactor CSS](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/Refactor-css-04.jpg?raw=true)
-![Refactor CSS](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/Refactor-css-05.jpg?raw=true)
-![Refactor CSS](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/original/Refactor-css-06.jpg?raw=true)
+![Refactor CSS](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/Refactor/Refactor-css-01.jpg?raw=true)
+![Refactor CSS](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/Refactor/Refactor-css-02.jpg?raw=true)
+![Refactor CSS](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/Refactor/Refactor-css-03.jpg?raw=true)
+![Refactor CSS](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/Refactor/Refactor-css-04.jpg?raw=true)
+![Refactor CSS](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/Refactor/Refactor-css-05.jpg?raw=true)
+![Refactor CSS](https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/assets/images/Refactor/Refactor-css-06.jpg?raw=true)
 
 ## Links to Repo 
 https://github.com/Tuzosdaniel12/Horiseon-Marketing/blob/main/README.md
